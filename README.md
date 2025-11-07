@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jungjae Lee</h1>
 <h3 align="center">I'm a researcher specializing in Distributed Systems.</h3>
 
-<p align="center">
+<p align="left">
 With over 5 years of experience in research and development, I have cultivated expertise in <b>Federated Learning (FL)</b>, <b>Blockchain</b>, and <b>Reinforcement Learning</b>. I have successfully led and contributed to <b>cutting-edge distributed systems projects</b>, including decentralized FL frameworks under data and device heterogeneity, trustworthy FL frameworks, and blockchain-based content sharing systems.
 </p>
 
